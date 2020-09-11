@@ -4,6 +4,10 @@
   "description": "A custom CKEditor 5 build made by the CKEditor 5 online builder.",
   "version": "0.0.1",
   "license": "SEE LICENSE IN LICENSE.md",
+  "main": "./build/ckeditor.js",
+  "files": [
+    "build"
+  ],
   "devDependencies": {
     "@ckeditor/ckeditor5-adapter-ckfinder": "^22.0.0",
     "@ckeditor/ckeditor5-autoformat": "^22.0.0",
